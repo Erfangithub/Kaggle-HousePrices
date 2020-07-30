@@ -14,7 +14,7 @@ Link to the official page for this project: https://www.kaggle.com/c/house-price
 - This notebook contains a summary of my analysis for this project. At first we preprocess the data for machine learning
 with a few simple steps. Using this preprocessed data we train promising machine learning models. And finally these models
 are stacked to create a meta-model which makes the final predictions. Some details of the analysis (e.g. fine-tuning hyper
--parameters) are not shown. There are a few outliers in the data which heavily effect the final prediction error if not
+-parameters) are not shown. There are a few outliers in the data which heavily affect the final prediction error if not
 treated separately, therefore we make separate predictions for these outliers.
 - These steps are sufficient to obtain a Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the
 logarithm of the observed sales price of about 0.1175 which puts the submission in the Top 4% on the Public Leaderboard.
