@@ -45,7 +45,7 @@ logarithm of the observed sales price of about 0.1175 which puts the submission 
     - Where packagename2 can be replaced with numpy, pandas, matplotlib or scikit-learn.
     
     - Note: pip or pip3 commands might also work (although there were some issues on my system) for installing xgboost or lightgbm.
-      The installation commands that I have written above are the ones that worked on my system.
+      The installation commands that I have written above are the ones that worked on my MacBook Pro.
       
 - #### Download the data
   - Download the zip file containing this repository.
