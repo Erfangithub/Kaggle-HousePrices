@@ -17,7 +17,8 @@ are stacked to create a meta-model which makes the final predictions. Some detai
 -parameters) are not shown. There are a few outliers in the data which heavily affect the final prediction error if not
 treated separately, therefore we make separate predictions for these outliers.
 - These steps are sufficient to obtain a Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the
-logarithm of the observed sales price of about 0.1175 which puts the submission in the Top 4% on the Public Leaderboard.
+logarithm of the observed sales price of about 0.1175 which puts the submission in the Top 4% on the Public Leaderboard. The
+predictions are stored in the file submissionstacking.csv.
 
 ## 2. Installation
 - #### Requirements to run this project
